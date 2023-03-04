@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1GGoSsmMXKL6KjduPAS4EC7DCIHaRnPS8IwJSFrzuN1no0fyugsGk4ULfe238fnbCR6ftY0luF85F951CAypPA==",
+  "dgSpecHash": "IObJ62JHtltta0g1GV27qNcesUU60UgtklAulXTkO2ZjnCb/UWrzaiBkQ2df8T/gu32tH/arRHk8K372gm6MHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\info\\OneDrive\\Documentos\\dotnet-heroku\\dotnet-heroku\\dotnet-heroku.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\info\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\info\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\info\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
-    "C:\\Users\\info\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\info\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\info\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\info\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
